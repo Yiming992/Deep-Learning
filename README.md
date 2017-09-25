@@ -1,4 +1,4 @@
-## Deep Learning Expedition
+
 
 Breakthrough in the field of deep learning is one of the most important step-forward towards unlocking the nature of intelligence itself.
 
