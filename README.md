@@ -2,8 +2,7 @@
 
 Breakthrough in the field of deep learning is one of the most important step-forward towards unlocking the nature of intelligence itself.
 
-This site is created to record and share my personal on-going journey to explore the rapidly changing field of deep learning, and it's
-primarily organized into two parts. The first part will contain links towards various projects which I have undertaken either for relevant online courses or to sate my personal curiosity, while the second part will contain links to blogs, papers and other side materials which I personally find both thought-provoking and illuminating.
+[This site](https://javelin1992.github.io/Deep-Learning/) is created to record and share my personal on-going journey to explore the rapidly changing field of deep learning, and it's primarily organized into two parts. The first part will contain links towards various projects which I have undertaken either for relevant online courses or to sate my personal curiosity, while the second part will contain links to blogs, papers and other side materials which I personally find both thought-provoking and illuminating.
 
 Site content will be updated regularly.
 
