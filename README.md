@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Deep Learning Expedition
 
-You can use the [editor on GitHub](https://github.com/javelin1992/Deep-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Breakthrough in the field of deep learning is one of the most important step-forward towards unlocking the nature of intelligence itself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is created to record and share my personal on-going journey to explore the rapidly changing field of deep learning, and it's
+primarily organized into two parts. The first part will contain links towards various projects which I have undertaken either for relevant online courses or to sate my personal curiosity, while the second part will contain links to blogs, papers and other side materials which I personally find both thought-provoking and illuminating.
 
-### Markdown
+Site content will be updated regularly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Udacity Deep Learning Foundation Nano Degree Projects
+- [Neural Nets](https://github.com/javelin1992/Deep-Learning/blob/master/Neural_nets/Your_first_neural_network.ipynb): Trained a feed-forward neural network with numpy to predict daily bike sharing.
+- [Image Classification](https://github.com/javelin1992/Deep-Learning/blob/master/Image_classification/dlnd_image_classification.ipynb): Trained a customized convolutional neural nets to classify CIFAR-10 datasets using tensorflow.
+- [TV Script Generation](https://github.com/javelin1992/Deep-Learning/blob/master/LSTM/dlnd_tv_script_generation.ipynb): Trained a Recurrent Neural Network with LSTM cells to generate a script for a TV-show using tensorflow.
+- [Language Translation](https://github.com/javelin1992/Deep-Learning/blob/master/Language_translation/dlnd_language_translation.ipynb): Trained a sequence-to-sequence RNN model to translate English to French using tensorflow.
+- [DCGAN](https://github.com/javelin1992/Deep-Learning/blob/master/DCGAN/dlnd_face_generation.ipynb): Trained a deep convolutional generative adversarial network to generate human faces using tensorflow.
 
-# Header 1
-## Header 2
-### Header 3
+### Personal Projects
+- [Transfer Learning](https://github.com/javelin1992/Machine_Learning/blob/master/STL_10/STL_inceptionV3.ipynb): Retrained part of Google's Inception V3 network to classify STL-10 datasets.
+- [Convolutional Autoencoder](https://github.com/javelin1992/Machine_Learning/blob/master/STL_10/STL_convolutional_autoencoders.ipynb): trained a customied CNN with unsupervised pretraining to classify STL-10 datasets.
 
-- Bulleted
-- List
+### Illuminating Deep Learning Articles and Blogs
+- [DeepMind](https://deepmind.com/blog/)
+- [I am trask](https://iamtrask.github.io/)
+- [Daniil's blog](http://warmspringwinds.github.io/)
+- [Sam's Research Blog](https://greydanus.github.io/)
+- [Graduate Descent](http://timvieira.github.io/blog/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javelin1992/Deep-Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Resource To Learn Deep Learning
+- [Siraj Raval's Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Lots of though-provoking content
+- [sentdex Youtube Channel](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ): Great Channel about applied DL
