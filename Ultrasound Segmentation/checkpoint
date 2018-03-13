@@ -1,0 +1,2 @@
+model_checkpoint_path: "seg"
+all_model_checkpoint_paths: "seg"
