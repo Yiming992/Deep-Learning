@@ -1,10 +1,7 @@
 
+[This site](https://javelin1992.github.io/Deep-Learning/) is created to record and share my personal journey of studying and  exploring the rapidly changing field of deep learning, and it's primarily organized into two parts. The first part will contain links towards various projects which I have undertaken either for relevant online courses or to sate my personal curiosity, while the second part will contain links to blogs, papers and other side materials which I personally find both thought-provoking and illuminating.
 
-Breakthrough in the field of deep learning is one of the most important step-forward towards unlocking the nature of intelligence itself.
-
-[This site](https://javelin1992.github.io/Deep-Learning/) is created to record and share my personal on-going journey to explore the rapidly changing field of deep learning, and it's primarily organized into two parts. The first part will contain links towards various projects which I have undertaken either for relevant online courses or to sate my personal curiosity, while the second part will contain links to blogs, papers and other side materials which I personally find both thought-provoking and illuminating.
-
-Site content will be updated regularly.
+content will be updated regularly.
 
 
 ### Udacity Deep Learning Foundation Nano Degree Projects
@@ -26,5 +23,5 @@ Site content will be updated regularly.
 - [Graduate Descent](http://timvieira.github.io/blog/)
 
 ### Other Resource To Learn Deep Learning
-- [Siraj Raval's Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Lots of though-provoking content
+- [Siraj Raval's Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Lots of thought-provoking content
 - [sentdex Youtube Channel](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ): Great Channel about applied DL
