@@ -16,6 +16,7 @@ content will be updated regularly.
 - [Convolutional Autoencoder](https://github.com/javelin1992/Machine_Learning/blob/master/STL_10/STL_convolutional_autoencoders.ipynb): trained a customied CNN with unsupervised pretraining to classify STL-10 datasets.
 -[Ultrasound Segmentation](https://github.com/javelin1992/Deep-Learning/blob/master/Ultrasound%20Segmentation/Segmentation.ipynb):Mask ultrasound images ggwith fully convolutional networks
 -[StatOil Iceberg classification](https://github.com/javelin1992/Deep-Learning/tree/master/StatOil%20Iceberg%20Classification): detect whether images contain a iceberg using ensemble of CNNs
+
 -[AutoNets](https://github.com/javelin1992/Deep-Learning/blob/master/AutoNets/AutoNets.py): a Python module to build Autoencoders using tensorflow
 
 ### Illuminating Deep Learning Articles and Blogs
