@@ -17,7 +17,7 @@ train_op=SWATS().minimize(loss)
 ```
 
 ###To run the test using cifar-10 PyramidNet
-```python
+```
 
 python Pyramid.py --batch_size --epoch --optimizer
 ```
