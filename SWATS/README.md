@@ -1,5 +1,5 @@
 # SWATS
-This project is about implementing SWATS optimizer as described in this paper https://arxiv.org/pdf/1712.07628.pdf
+This project is about implementing SWATS optimizer as described in this paper https://arxiv.org/pdf/1712.07628.pdf. Note: this implemnetation is still in testing phase, and updates will be made in the future
 ## What's in this repo
 * SWATS.py: Implementation for SWATS as a tensorflow optimizer object
 * Pyramid.py: Implementation for the 110-layer PyramidNet as described in this paper https://arxiv.org/abs/1610.02915. Performance of the SWATS optimizer will be evaluated by training the 110-layer PyramidNet on cifar-10 as in the original paper
