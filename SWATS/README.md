@@ -9,25 +9,24 @@ This project is about implementing SWATS optimizer as described in this paper ht
 
 ###To use the optimizer in any tensorflow model
 
-'''python
+```python
 
 from SWATS import SWATS
 
 train_op=SWATS().minimize(loss)
-
-'''
+```
 
 ###To run the test using cifar-10 PyramidNet
-'''python
+```python
 
 python Pyramid.py --batch_size --epoch --optimizer
-'''
+```
 
 ###To build PyramidNet without training
-'''python
+```python
 
 from Pyramid import Pyramid_110
 
 model=Pyramid_110(alpha)#alpha is the widening factor as described in the paper
 graph,inputs,label,is_train,correct_count,train_op,init=pyramid.build(optimizer=optimizer)
-'''
+```
