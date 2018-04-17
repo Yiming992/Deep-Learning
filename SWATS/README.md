@@ -7,7 +7,7 @@ This project is about implementing SWATS optimizer as described in this paper ht
 
 ## How to use
 
-###To use the optimizer in any tensorflow model
+To use the optimizer in any tensorflow model
 
 ```python
 
@@ -16,13 +16,13 @@ from SWATS import SWATS
 train_op=SWATS().minimize(loss)
 ```
 
-###To run the test using cifar-10 PyramidNet
+To run the test using cifar-10 PyramidNet
 ```
 
 python Pyramid.py --batch_size --epoch --optimizer
 ```
 
-###To build PyramidNet without training
+To build PyramidNet without training
 ```python
 
 from Pyramid import Pyramid_110
